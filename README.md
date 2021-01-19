@@ -1,6 +1,6 @@
 AT_engi_soil (atrazine degradation model for engineered systems and extension for soil simulations)
 
-This respository includes a collection of models to simulate the degradation of atrazine and formation of the metabolite hydroxyatrazine in engineered systems (chemostat/retentostat) and soil systems.
+This repository includes a collection of models to simulate the degradation of atrazine and formation of the metabolite hydroxyatrazine in engineered systems (chemostat/retentostat) and soil systems.
 
 Engineered systems
 The models for engineered systems can be found in the folder "chemo_retent_models".
